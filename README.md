@@ -1,5 +1,5 @@
 <div align="center">
-   Bem-vindo à página da Oak Store! 
+   Bem-vindo à página da Oak Store!
    Neste repositório, você encontrará todas as atualizações do Oak Web e Android!
 </div>
 
