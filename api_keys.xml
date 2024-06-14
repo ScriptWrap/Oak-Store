@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- put your name in *YOUR NAME HERE* -->
+    <!-- this url is for tests --> 
+     <string name="API_URL">https://raw.githubusercontent.com/*YOUR NAME HERE*/Oak-Android/main/test/database/database.json</string>
+</resources>
