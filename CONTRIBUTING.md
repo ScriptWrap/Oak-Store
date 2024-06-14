@@ -35,5 +35,7 @@ Secrets for Compile on GitHub Actions:
 (You need to create these secrets so that GitHub Actions compiles smoothly )
 
 - `API_FILE:` value in this file: [api_keys.xml](https://github.com/Oak-Store/.github/tree/main/profile/api_keys.xml)
-- `TELEGRAM_TO:` -1002174635702
-- `TELEGRAM_TOKEN:` 7317910591:AAFOu_t046Ie-MUSpudwznsZ2o306L-QfaQ
+- `TELEGRAM_TO(Optional):` -1002174635702
+- `TELEGRAM_TOKEN:(Optional)` 7317910591:AAFOu_t046Ie-MUSpudwznsZ2o306L-QfaQ
+
+If you don't create the Telegram keys, the apk will be compiled, but it will not be sent to TELEGRAM.
