@@ -4,9 +4,9 @@
 If you'd like to contribute to Oak-Store: follow steps:
 
 1. Fork one of these repositories: 
-   [Oak-Store/Oak-Store](https://github.com/Oak-Store/Oak-Store)
-   [Oak-Store/Oak-Android](https://github.com/Oak-Store/Oak-Android)
-   [Oak-Store/Oak-Web](https://github.com/Oak-Store/Oak-Web)
+   - [Oak-Store/Oak-Store](https://github.com/Oak-Store/Oak-Store)
+   - [Oak-Store/Oak-Android](https://github.com/Oak-Store/Oak-Android)
+   - [Oak-Store/Oak-Web](https://github.com/Oak-Store/Oak-Web)
 2. Make changes in your forked repository.
 3. Test out those changes.
 4. Create a Pull Request from the chosen repository.
