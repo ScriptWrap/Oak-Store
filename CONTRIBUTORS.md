@@ -2,4 +2,4 @@
 
 - [Aquiles Trindade](https://github.com/aquilesTrindade/)
 - [AGL SK](https://github.com/aglsk)
-- [Sketchware Inventations](https://github.com/skinvent)
+- [Sketchware Inventions](https://github.com/skinvent)
